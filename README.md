@@ -27,6 +27,21 @@
 #### Find me here!
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:behdadmansouri@aut.ac.ir)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/behdad-mansouri-36637715a/)
+
+
+<div>
+<a>
+    <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=behdadmansouri&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behdadmansouri&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+</div>
+<div>
+  <img align="center" src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+
 <!--
 #### And yet :)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=behdadmansouri&theme=blue-green)
