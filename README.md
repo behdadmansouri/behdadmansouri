@@ -14,10 +14,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-EEEEEE?style=for-the-badge&logo=react&logoColor=grey)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-EEEEEE?style=for-the-badge&logo=sqlite&logoColor=grey)
 ![Redis](https://img.shields.io/badge/-Redis-47A248?style=for-the-badge&logo=redis)
-![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Latex](https://img.shields.io/badge/Latex-E95420?style=for-the-badge&logo=latex)
 ![vim](https://img.shields.io/badge/Vim-E95420?style=for-the-badge&logo=vim)
