@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Finishing up my bachelor's at AUT (Amirkabir Univeristy of Technology)
+- 🔭 Finishing up my Msc at uOtawa
 - 🌱 I’m currently learning Compilers, AI, CI, Web and Computer Security
 - 👯 I’m looking to collaborate on more machine learning projects
 - 💬 Ask me about advice on surviving the university
@@ -36,9 +36,6 @@
 <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behdadmansouri&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
-</div>
-<div>
-  <img align="center" src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 
