@@ -23,12 +23,14 @@
 ![vim](https://img.shields.io/badge/Vim-E95420?style=for-the-badge&logo=vim)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
+<!--
 #### Find me here!
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:behdadmansouri@aut.ac.ir)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/behdad-mansouri-36637715a/)
+-->
 
 
+<!-- rating
 <div>
 <a>
     <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=behdadmansouri&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
@@ -37,7 +39,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behdadmansouri&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </div>
-
+-->
 
 <!--
 #### And yet :)
